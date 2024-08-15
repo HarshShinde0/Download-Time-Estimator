@@ -30,4 +30,4 @@ This is a simple Streamlit app that helps you estimate the remaining time for a 
 To run the app, navigate to the project directory and execute the following command:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
