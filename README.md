@@ -12,7 +12,7 @@ This is a simple Streamlit app that helps you estimate the remaining time for a 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/download-time-estimator.git
+    git clone https://github.com/HarshShinde0/Download-Time-Estimator.git
     ```
    
 2. **Navigate to the project directory:**
